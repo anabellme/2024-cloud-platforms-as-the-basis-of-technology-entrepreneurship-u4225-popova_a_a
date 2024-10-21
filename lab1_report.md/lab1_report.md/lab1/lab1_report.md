@@ -7,3 +7,4 @@ Author: Popova Anna Andreevna
 Lab: Lab1
 Date of create: 21.10.2024
 Date of finished: 21.10.2024
+[Uploading отчет  лаб 1.pdf…]()
