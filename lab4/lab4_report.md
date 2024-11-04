@@ -58,7 +58,7 @@
 ### 2. Схема инфраструктуры бота
 Для продакшн-среды разработана следующая инфраструктура, обеспечивающая стабильность, отказоустойчивость и масштабируемость.
 
-<img width="538" alt="image" src="https://github.com/user-attachments/assets/85806dad-bc6b-4513-a76b-8c5d423f359a">
+<img width="597" alt="image" src="https://github.com/user-attachments/assets/96ad6f58-2fda-4225-a788-2d112b0df9ef">
 
 
 ### 3. Экономическая модель
