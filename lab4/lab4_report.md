@@ -58,7 +58,7 @@
 ### 2. Схема инфраструктуры бота
 Была разработана следующая инфраструктура, обеспечивающая стабильность, отказоустойчивость и масштабируемость.
 
-<img width="597" alt="image" src="https://github.com/user-attachments/assets/96ad6f58-2fda-4225-a788-2d112b0df9ef">
+<img width="734" alt="image" src="https://github.com/user-attachments/assets/07d44970-b676-4e3a-8bdc-6078a9b25ecf">
 
 
 ### 3. Экономическая модель
